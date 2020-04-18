@@ -1,0 +1,40 @@
+{
+  "name": "webpack-vue",
+  "version": "1.0.0",
+  "description": "基于webpack创建的vue脚手架，非vue-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallk2012/webpack-vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smallk2012/webpack-vue/issues"
+  },
+  "homepage": "https://github.com/smallk2012/webpack-vue#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "style-loader": "^1.1.4",
+    "babel-core": "^6.22.1",
+    "babel-loader": "^7.1.1",
+    "css-loader": "^0.28.0",
+    "file-loader": "^1.1.4",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0",
+    "url-loader": "^0.5.8",
+    "vue-loader": "^13.3.0",
+    "vue-template-compiler": "^2.5.2",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1"
+  },
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  }
+}
